@@ -8,12 +8,12 @@
 Facts about me:
 
 - 👯 I'm actively seeking new opportunities in the Data Analytics & Business Intelligence space, ready to contribute to innovative projects and collaborate with visionary teams.
-- 💻 I’m open to job opportunites
+- 💻 I’m open to job opportunities and collaborating on Data Analysis projects 
 - 💬 Always learning new things and growing
-- 👨‍💻 All of my projects are available at [Portfolio](https://linktr.ee/mbawak)
+- 👨‍💻 See my portfolio at [My Portfolio](https://linktr.ee/mbawak)
 - 📝 I regularly write articles on [Medium](https://medium.com/@mb_awak)
 - 📫 How to reach me: [Email](mailto:faithawak11@gmail.com)
-- ⚡ Fun fact: I love movies. I read books and travel alot. 
+- ⚡ I love movies. I read books and travel alot. 
 
 
 <h3 align="left">🌐  Connect with me:</h3>
