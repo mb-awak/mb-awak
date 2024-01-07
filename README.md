@@ -1,5 +1,5 @@
-## Hi there ✋ My name is Mbuotidem Awak
-
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mbuotidem Awak
+=====================================
 
 ### I am a Data Analyst and Business Intelligence Specialist
 
@@ -21,10 +21,10 @@ Facts about me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbuotidem/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mb_awak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mb_awak) 
 
 
-### 💻 Tech Stack are:
+### 💻 Tech Stack:
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - Microsoft Excel
 - Power Bi
-- Postgres
 - SPSS
 
 ## 📊 GitHub Stats:
