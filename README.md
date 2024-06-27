@@ -12,7 +12,7 @@ Facts about me:
 - 💬 Always learning new things and growing.
 - 👨‍💻 See my portfolio at [My Portfolio](https://linktr.ee/mbawak)
 - 📝 I regularly write articles on [Medium](https://medium.com/@mb_awak)
-- 📫 How to reach me: [Email](mailto:faithawak11@gmail.com)
+- 📫 How to reach me: [Email](mailto:mbuotidemawak@gmail.com)
 - ⚡ I love movies, books and travel. 
 
 
